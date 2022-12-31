@@ -1,0 +1,133 @@
+treadmill
+workout
+interval 0 0 2 0
+midinterval 1 0 2 2
+play 01c25k01.wav 3
+midinterval 55 0 4.5 2
+interval 1 0 4.5 2
+interval 2 0 4.5 2
+interval 3 0 4.5 2
+play 01c25k02.wav 27
+interval 4 0 4.5 2
+interval 5 0 4.5 2
+play 01c25k03.wav 55
+interval 6 0 4.5 2
+midinterval 22 0 7 2
+interval 7 0 7 2
+play 01c25k04.wav 14
+midinterval 22 0 5 2
+interval 8 0 5 2
+play 01c25k05.wav 59
+interval 9 0 5 2
+midinterval 5 0 7 2
+play 01c25k06.wav 57
+interval 10 0 7 2
+midinterval 5 0 5 2
+interval 11 0 5 2
+play 01c25k07.wav 41
+midinterval 50 0 7 2
+interval 12 0 7 2
+play 01c25k08.wav 43
+midinterval 50 0 5 2
+interval 13 0 5 2
+interval 14 0 5 2
+play 01c25k09.wav 26
+midinterval 35 0 7 2
+interval 15 0 7 2
+play 01c25k10.wav 27
+midinterval 36 0 5 2
+interval 16 0 5 2
+interval 17 0 5 2
+play 01c25k11.wav 12
+midinterval 20 0 7 2
+interval 18 0 7 2
+play 01c25k12.wav 13
+midinterval 20 0 5 2
+interval 19 0 5 2
+play 01c25k13.wav 54
+interval 20 0 7 2
+play 01c25k14.wav 51
+interval 21 0 5 2
+interval 22 0 5 2
+play 01c25k15.wav 38
+midinterval 44 0 7 2
+interval 23 0 7 2
+play 01c25k16.wav 37
+midinterval 44 0 5 2
+interval 24 0 5 2
+interval 25 0 5 2
+play 01c25k17.wav 20
+midinterval 27 0 7 2
+interval 26 0 7 2
+play 01c25k18.wav 21
+midinterval 25 0 5 2
+play 01c25k19.wav 27
+interval 27 0 5 2
+interval 28 0 5 2
+interval 29 0 5 2
+interval 30 0 5 2
+interval 31 0 5 2
+midinterval 41 0 1 2
+play 01c25k20.wav 42
+interval 32 0 1 2
+interval 33 0 0 0
+end
+workout
+interval 0 0 2 0
+midinterval 1 0 2 2
+play 02c25k01.wav 4
+interval 1 0 4.5 2
+interval 2 0 4.5 2
+interval 3 0 4.5 2
+play 02c25k02.wav 30
+interval 4 0 4.5 2
+interval 5 0 4.5 2
+play 02c25k03.wav 20
+interval 6 0 7 2
+interval 7 0 7 2
+play 02c25k04.wav 20
+midinterval 30 0 5 2
+interval 8 0 5 2
+interval 9 0 5 2
+play 02c25k05.wav 19
+midinterval 30 0 7 2
+interval 10 0 7 2
+play 02c25k06.wav 50
+interval 11 0 5 2
+interval 12 0 5 2
+play 02c25k07.wav 19
+interval 13 0 7 2
+interval 14 0 7 2
+play 02c25k08.wav 21
+midinterval 30 0 5 2
+interval 15 0 5 2
+interval 16 0 5 2
+play 02c25k09.wav 23
+midinterval 30 0 7 2
+interval 17 0 7 2
+play 02c25k10.wav 53
+interval 18 0 5 2
+interval 19 0 5 2
+play 02c25k11.wav 51
+interval 20 0 7 2
+interval 21 0 7 2
+play 02c25k12.wav 23
+midinterval 30 0 5 2
+interval 22 0 5 2
+interval 23 0 5 2
+play 02c25k13.wav 20
+midinterval 30 0 7 2
+interval 24 0 7 2
+play 02c25k14.wav 54
+interval 25 0 5 2
+play 02c25k15.wav 2
+interval 26 0 5 2
+interval 27 0 5 2
+interval 28 0 5 2
+interval 29 0 5 2
+interval 30 0 1 2
+play 01c25k16.wav 2
+interval 31 0 1 2
+interval 32 0 0 0
+end
+
