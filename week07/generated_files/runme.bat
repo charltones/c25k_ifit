@@ -1,2 +1,0 @@
-cd iFit\Tread
-makewavs
