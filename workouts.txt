@@ -211,7 +211,7 @@ interval 20 0 7 2
 play 04c25k11.wav 51
 interval 21 0 5 2      
 interval 22 0 5 2      
-play 04c25k12.wav 38
+play 04c25k12.wav 8
 midinterval 30 0 5 2   
 interval 23 0 7 2
 interval 24 0 7 2
@@ -230,4 +230,296 @@ midinterval 30 0 1 2
 play 04c25k15.wav 32
 interval 33 0 1 2
 interval 34 0 0 0
+end
+workout
+interval 0 0 2 0
+midinterval 1 0 2 2
+play 05c25k01.wav 29
+interval 1 0 5 2
+interval 2 0 5 2
+play 05c25k02.wav 1
+interval 3 0 5 2
+play 05c25k03.wav 1
+interval 4 0 5 2
+interval 5 0 5 2
+play 05c25k04.wav 47
+interval 6 0 7 2      
+interval 7 0 7 2
+interval 8 0 7 2
+play 05c25k05.wav 30
+interval 9 0 7 2        
+interval 10 0 7 2       
+interval 11 0 5 2
+play 05c25k06.wav 01
+interval 12 0 5 2      
+interval 13 0 5 2
+play 05c25k07.wav 38
+interval 14 0 7 2      
+interval 15 0 7 2      
+interval 16 0 7 2
+play 05c25k08.wav 30
+interval 17 0 7 2
+interval 18 0 7 2      
+interval 19 0 5 2
+play 05c25k09.wav 01
+interval 20 0 5 2
+interval 21 0 5 2      
+play 05c25k10.wav 47
+interval 22 0 7 2      
+interval 23 0 7 2
+interval 24 0 7 2
+play 05c25k11.wav 30
+interval 25 0 7 2
+interval 26 0 7 2
+interval 27 0 5 2
+play 05c25k12.wav 01
+interval 28 0 5 2
+interval 29 0 5 2
+interval 30 0 5 2
+interval 31 0 5 2
+interval 32 0 1 2
+play 05c25k13.wav 01
+interval 33 0 0 0
+end
+workout
+interval 0 0 2 0
+midinterval 1 0 2 2
+play 06c25k01.wav 25
+interval 1 0 5 2
+play 06c25k02.wav 1
+interval 2 0 5 2
+interval 3 0 5 2
+interval 4 0 5 2
+interval 5 0 5 2
+play 06c25k03.wav 38
+interval 6 0 7 2      
+interval 7 0 7 2
+interval 8 0 7 2
+interval 9 0 7 2        
+interval 10 0 7 2       
+play 06c25k04.wav 01
+interval 11 0 7 2
+interval 12 0 7 2      
+interval 13 0 7 2
+play 06c25k05.wav 01
+interval 14 0 5 2      
+play 06c25k06.wav 01
+interval 15 0 5 2      
+interval 16 0 5 2
+interval 17 0 5 2
+interval 18 0 5 2      
+play 06c25k07.wav 42
+interval 19 0 7 2
+interval 20 0 7 2
+interval 21 0 7 2      
+interval 22 0 7 2      
+interval 23 0 7 2
+play 06c25k08.wav 01
+interval 24 0 7 2
+interval 25 0 7 2
+interval 26 0 7 2
+play 06c25k09.wav 01
+interval 27 0 5 2
+play 06c25k10.wav 01
+interval 28 0 5 2
+play 06c25k11.wav 01
+interval 29 0 5 2
+interval 30 0 5 2
+interval 31 0 5 2
+interval 32 0 1 2
+play 06c25k12.wav 01
+interval 33 0 0 0
+end
+workout
+interval 0 0 2 0
+midinterval 1 0 2 2
+play 07c25k01.wav 3
+interval 1 0 5 2
+interval 2 0 5 2
+interval 3 0 5 2
+interval 4 0 5 2
+interval 5 0 5 2
+play 07c25k02.wav 32
+interval 6 0 7 2      
+interval 7 0 7 2
+interval 8 0 7 2
+interval 9 0 7 2        
+interval 10 0 7 2       
+interval 11 0 7 2
+play 07c25k03.wav 01
+interval 12 0 7 2      
+interval 13 0 7 2
+interval 14 0 7 2      
+interval 15 0 7 2      
+interval 16 0 7 2
+play 07c25k04.wav 01
+interval 17 0 7 2
+interval 18 0 7 2      
+interval 19 0 7 2
+interval 20 0 7 2
+interval 21 0 7 2      
+play 07c25k05.wav 01
+interval 22 0 7 2      
+interval 23 0 7 2
+interval 24 0 7 2
+interval 25 0 7 2
+interval 26 0 5 2
+play 07c25k06.wav 01
+interval 27 0 5 2
+play 07c25k07.wav 01
+interval 28 0 5 2
+interval 29 0 5 2
+interval 30 0 5 2
+interval 31 0 1 2
+play 07c25k08.wav 01
+interval 32 0 0 0
+end
+workout
+interval 0 0 2 0
+midinterval 1 0 2 2
+play 08c25k01.wav 8
+interval 1 0 5 2
+interval 2 0 5 2
+interval 3 0 5 2
+interval 4 0 5 2
+interval 5 0 5 2
+play 08c25k02.wav 47
+interval 6 0 7 2      
+interval 7 0 7 2
+interval 8 0 7 2
+interval 9 0 7 2        
+interval 10 0 7 2       
+interval 11 0 5 2
+play 08c25k03.wav 01
+interval 12 0 5 2      
+interval 13 0 5 2
+play 08c25k04.wav 41
+interval 14 0 7 2      
+interval 15 0 7 2      
+interval 16 0 7 2
+interval 17 0 7 2
+interval 18 0 7 2      
+play 08c25k05.wav 01
+interval 19 0 7 2
+interval 20 0 7 2
+play 08c25k06.wav 01
+interval 21 0 7 2      
+play 08c25k07.wav 01
+interval 22 0 5 2      
+interval 23 0 5 2
+interval 24 0 5 2
+play 08c25k08.wav 42
+interval 25 0 7 2
+interval 26 0 7 2
+interval 27 0 7 2
+play 08c25k09.wav 30
+interval 28 0 7 2
+interval 29 0 7 2
+play 08c25k10.wav 01
+interval 30 0 5 2
+play 08c25k11.wav 01
+interval 31 0 5 2
+interval 32 0 5 2
+interval 33 0 5 2
+interval 34 0 5 2
+interval 35 0 1 2
+play 08c25k12.wav 01
+interval 36 0 0 0
+end
+workout
+interval 0 0 2 0
+midinterval 1 0 2 2
+play 09c25k01.wav 20
+interval 1 0 5 2
+interval 2 0 5 2
+interval 3 0 5 2
+interval 4 0 5 2
+interval 5 0 5 2
+play 09c25k02.wav 44
+interval 6 0 7 2      
+interval 7 0 7 2
+interval 8 0 7 2
+interval 9 0 7 2        
+interval 10 0 7 2       
+interval 11 0 7 2
+play 09c25k03.wav 01
+interval 12 0 7 2      
+interval 13 0 7 2
+interval 14 0 7 2      
+interval 15 0 7 2      
+interval 16 0 5 2
+play 09c25k04.wav 01
+interval 17 0 5 2
+interval 18 0 5 2      
+play 09c25k05.wav 38
+interval 19 0 7 2
+interval 20 0 7 2
+interval 21 0 7 2      
+interval 22 0 7 2      
+interval 23 0 7 2
+interval 24 0 7 2
+interval 25 0 7 2
+interval 26 0 7 2
+interval 27 0 7 2
+interval 28 0 7 2
+play 09c25k06.wav 01
+interval 29 0 5 2
+play 09c25k07.wav 01
+interval 30 0 5 2
+interval 31 0 5 2
+interval 32 0 5 2
+interval 33 0 5 2
+interval 34 0 1 2
+play 09c25k08.wav 01
+interval 35 0 0 0
+end
+workout
+interval 0 0 2 0
+midinterval 1 0 2 2
+play 10c25k01.wav 22
+interval 1 0 5 2
+play 10c25k02.wav 01
+interval 2 0 5 2
+interval 3 0 5 2
+interval 4 0 5 2
+interval 5 0 5 2
+play 10c25k03.wav 39
+interval 6 0 7 2      
+interval 7 0 7 2
+interval 8 0 7 2
+interval 9 0 7 2        
+interval 10 0 7 2       
+interval 11 0 7 2
+play 10c25k04.wav 01
+interval 12 0 7 2      
+interval 13 0 7 2
+interval 14 0 7 2      
+interval 15 0 7 2      
+interval 16 0 7 2
+interval 17 0 7 2
+interval 18 0 7 2 
+play 10c25k05.wav 30     
+interval 19 0 7 2
+interval 20 0 7 2
+interval 21 0 7 2      
+interval 22 0 7 2      
+interval 23 0 7 2
+interval 24 0 7 2
+interval 25 0 7 2
+interval 26 0 7 2
+play 10c25k06.wav 01
+interval 27 0 7 2
+interval 28 0 7 2
+interval 29 0 7 2
+interval 30 0 7 2
+play 10c25k07.wav 01
+interval 31 0 5 2
+play 10c25k08.wav 01
+interval 32 0 5 2
+interval 33 0 5 2
+interval 34 0 5 2
+interval 35 0 5 2
+interval 36 0 1 2
+play 10c25k09.wav 01
+interval 37 0 0 0
 end
